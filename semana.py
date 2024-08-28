@@ -59,7 +59,6 @@ print(frutas)
 
 
 modificado="hice una modificacion"
-modific="modificado desde visual"
 
 
 
