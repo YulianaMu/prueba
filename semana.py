@@ -58,8 +58,6 @@ frutas.extend(0,6,["s","r"])
 print(frutas)
 
 
-modificado="hice una modificacion"
-
 
 
 
